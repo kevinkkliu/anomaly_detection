@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a019881-0d41-427a-a845-395c9778cb64" name="Default Changelist" comment="" />
+    <list default="true" id="0a019881-0d41-427a-a845-395c9778cb64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2dtest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/training.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +41,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ano" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tfsvm">
+  <component name="RunManager" selected="Python.training">
     <configuration name="2Dtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="anomaly_detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,8 +188,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tfsvm" />
         <item itemvalue="Python.training" />
+        <item itemvalue="Python.tfsvm" />
         <item itemvalue="Python.3Dtest" />
         <item itemvalue="Python.tensorflowtsne" />
         <item itemvalue="Python.2Dtest" />
@@ -202,6 +214,7 @@
       <workItem from="1569574206754" duration="820000" />
       <workItem from="1569749189241" duration="6634000" />
       <workItem from="1569764011441" duration="9044000" />
+      <workItem from="1569781178006" duration="12411000" />
     </task>
     <task id="LOCAL-00001" summary="add training.py(not compelete) and tfsvm.py">
       <created>1569779405308</created>
@@ -236,11 +249,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/anomaly_detection$test.coverage" NAME="test Coverage Results" MODIFIED="1569352152276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/anomaly_detection$tensorflow_tsne.coverage" NAME="tensorflowtsne Coverage Results" MODIFIED="1569054436294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/anomaly_detection$tfsvm.coverage" NAME="tfsvm Coverage Results" MODIFIED="1569778508801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/anomaly_detection$tfsvm.coverage" NAME="tfsvm Coverage Results" MODIFIED="1569824463311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/anomaly_detection$3Dtest.coverage" NAME="3Dtest Coverage Results" MODIFIED="1569525256644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/anomaly_detection$readfile.coverage" NAME="readfile Coverage Results" MODIFIED="1568964868484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/anomaly_detection$2Dtest.coverage" NAME="2Dtest Coverage Results" MODIFIED="1569412497483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/anomaly_detection$tensorflowtsne.coverage" NAME="tensorflowtsne Coverage Results" MODIFIED="1569522968369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/anomaly_detection$training.coverage" NAME="training Coverage Results" MODIFIED="1569764693413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/anomaly_detection$training.coverage" NAME="training Coverage Results" MODIFIED="1569824866566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
